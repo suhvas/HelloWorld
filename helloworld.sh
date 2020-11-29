@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Hello World!!"
-echo "HHHHH"
-echo "hahahahah"
-echo "Hello...."
+echo "First arg: $1"
+echo "Second arg: $2"
+
